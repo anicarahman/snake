@@ -1,0 +1,15 @@
+Info,  T0: Load ./tree/Tree2.3ds
+Info,  T0: Found a matching importer for this file format: Discreet 3DS Importer.
+Info,  T0: Import root directory is './tree/'
+Info,  T0: 3DS file format version: 3
+Warn,  T0: No hierarchy information has been found in the file. 
+Info,  T0: Entering post processing pipeline
+Info,  T0: RemoveRedundantMatsProcess finished. Removed 1 redundant and 0 unused materials.
+Warn,  T0: Found 3352 degenerated primitives
+Info,  T0: Points: 0, Lines: 1, Triangles: 2, Polygons: 0 (Meshes, X = removed)
+Info,  T0: Tangents are undefined for line and point meshes
+Info,  T0: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T0: JoinVerticesProcess finished | Verts in: 92960 out: 44517 | ~52.1%
+Error, T0: This algorithm works on triangle meshes only
+Info,  T0: Cache relevant are 2 meshes (28752 faces). Average output ACMR is 1.376809
+Info,  T0: Leaving post processing pipeline
